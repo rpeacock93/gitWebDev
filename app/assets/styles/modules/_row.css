@@ -4,9 +4,17 @@
         margin-right: -65px;
     }
 
+    &--t-pading {
+        padding-top: 80px;
+    }
+
 
     &--gutters-large {
         margin-right: -100px;
+    }
+
+    &--gutters-small {
+        margin-right: -45px;
     }
 
     &--gutters > div {
@@ -15,6 +23,10 @@
 
     &--gutters-large > div {
         padding-right: 100px;
+    }
+
+    &--gutters-small > div {
+        padding-right: 45px;
     }
 
     &__b-margin-until-medium {
